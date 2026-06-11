@@ -53,7 +53,8 @@ The primary objective is to assist in monitoring elderly people, patients, and i
 ```
 
 ---
-
+Note: The trained model file (fall_video_model.h5) is not included due to GitHub file size limitations.
+---
 ## Dataset
 
 The dataset consists of:
